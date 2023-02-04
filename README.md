@@ -2,11 +2,10 @@
 
 Password Generator App
 
--> basic features__    
--> minimal ui__ 
--> possibility to select:
+Possibility to select:
   1. numerical 
   2. alphabetical 
-  3. mixed__    
--> possibility to copy the password in notes
+  3. mixed    
+
+Possibility to copy the password in notes
 
